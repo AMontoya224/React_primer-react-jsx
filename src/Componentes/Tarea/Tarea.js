@@ -1,8 +1,5 @@
 import './Tarea.css'
 
-
-
-
 const Tarea = ( {tareas} ) => {
     return (
         <div >
